@@ -24,7 +24,7 @@ What i do is, i looking for data that can help user to answer the business probl
 3. Age Distributions
 4. MOB ( Month Of Book ) Distributions
 5. Income Distributions
-6. Pas 6 months Sales Analysis
+6. Past 6 months Sales Analysis
 7. Average nnumber of Transactions
 8. Cost promottion vs profit
 9. Promo Sensitive Customer percentage
